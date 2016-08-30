@@ -147,8 +147,6 @@ Lymph node showing large cells with ample amount of cytoplasm and visible nucleo
 > - Associated with HSV, syphilis, leishmaniasis, ...
 > - Possible association between breast implants and ALCL
 
---- 
-
 --- &radio
 
 ## Question 

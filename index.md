@@ -149,6 +149,31 @@ Lymph node showing large cells with ample amount of cytoplasm and visible nucleo
 
 --- 
 
+--- &radio
+
+## Question 
+Which of the following markers is suggestive of ALCL?
+
+1. Hyper-segmented neutrophils
+2. Foam cells
+3. _Horseshoe cells_
+4. Schistocytes
+5. FLT3
+
+***.hint
+Why the long face?
+
+***.explanation
+Horseshoe cells are hallmark for ALCL
+
+1. Megaloblastic anemia
+2. Atherosclerosis
+3. ALCL
+4. Microangiopathic hemolytic anemia
+5. AML
+
+---
+
 ## References
 
 - *ASCP CaseSet Hematology & Coagulation*

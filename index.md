@@ -6,9 +6,13 @@ job         :
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
-widgets     : []            # {mathjax, quiz, bootstrap}
+widgets     : [mathjax, quiz, bootstrap]
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
+github:
+  user: patrickjrock
+  repo: ALCL
+
 ---
 
 ## Case
@@ -97,7 +101,6 @@ Lymph node showing large cells with ample amount of cytoplasm and visible nucleo
 > - Viral infection
 
 
-[medscape](http://emedicine.medscape.com/article/208050-overview#a7)
 
 ---
 
@@ -116,17 +119,39 @@ Lymph node showing large cells with ample amount of cytoplasm and visible nucleo
 ## Most Likely Diagnosis
 
 ### Anaplastic Large-Cell Lymphoma (ALCL)
+> - This rare neoplasm is suggested by large anaplastic cells with horseshoe or 
+ embryoid nuclei in Figure 1. 
+> - The diagnosis is confirmed by "the presence of rearangements
+ in the ALK gene on chromosome 2p23" - Robbins
+> - ALK is not expressed in normal lymphocytes so its precense is a good indicator. 
+> - These tumors usually express CD30.
+ 
+> - "Immunophenotypically, most neoplastic lymphocytes have a unique CD4+, CD8-, and cytotoxic T-cell phenotype (TIA-1 and granzyme B+), with variable loss of pan–T-cell antigens (eg, CD2, CD3, CD5)." -medscape
 
 ---
 
 ## Course of Management
+> - Multifocal presentation requres chemotherapy
+   + Methotrexate
+   + Combination regimens
+   + CHOP *cyclophosphamide, doxorubicin, vincristine, and prednisone*
+     * Most common therapy
+> - Surgery (hysterectomy)
+> - Recurrance expected within 2 years
 
 ---
 
 ## Salient Features
+> - T-Cell neoplasm
+  > - CD4+, CD8-, CD30+, 
+> - Associated with HSV, syphilis, leishmaniasis, ...
+> - Possible association between breast implants and ALCL
 
 --- 
 
 ## References
 
 - *ASCP CaseSet Hematology & Coagulation*
+- *Robbins and Cotran Pathologic Basis of Disease*
+- *Medscape*
+- http://www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/ImplantsandProsthetics/BreastImplants/ucm239995.htm

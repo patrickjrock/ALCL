@@ -32,11 +32,13 @@ knit        : slidify::knit2slides
 - None
 
 ### Physical Examination
-- Bilateral lymphadenopathy and fullness in the right pelvic region. No hepatosplenomegaly.
+- Bilateral lymphadenopathy in pelvic region.
+- No hepatosplenomegaly.
 
 ---
 
 ## CBC
+
 | test   | value |
 | ------ | ----- |
 | WBC    | 15.7  |
@@ -49,4 +51,56 @@ knit        : slidify::knit2slides
 | PLT    | 255   |
 | RDW-CV | 15.8  |
 
+---
 
+## White Blood Cell Count
+| wbc differential | percent | concentration  |     
+| ---------------- | --- | ----------- |
+| Neutrophils      | 80  | 12.6        |
+| Bands            | 0   | 0           |
+| Lymphocytes      | 13  | 2.0         |
+| Monocytes        | 7   | 1.1         |
+| Eosinophils      | 0   | 0           |
+| Basophils        | 0   | 0           |
+
+---
+
+## Histology
+
+### Figure 1
+Pelvic mass showing large cells in cohesive clusters.
+
+<img class="float-left" src="assets/img/ALCLslide.jpg">
+
+---
+
+## Histology
+
+### Figure 2
+Lymph node showing large cells with ample amount of cytoplasm and visible nucleoli.
+
+<img class="float-left" src="assets/img/lymp.jpg">
+
+---
+
+## Differential Diagnosis
+
+---
+
+## Additional Workup
+
+---
+
+## Most Likely Diagnosis
+
+---
+
+## Course of Management
+
+---
+
+## Salient Features
+
+--- 
+
+## Questions

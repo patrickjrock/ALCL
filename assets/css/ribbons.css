@@ -3,6 +3,13 @@
 /* Define classes for example, definition, problem etc. */
 /* Choose meaningful colors for background and text */
 
+img.float-left  { float: left; margin: 0 20px 20px 0; }
+img.float-right { float: right; margin: 0 0 20px 20px; }
+img.center              { margin: 0 auto; display: block; }
+
+img { width: 500px; height: auto; border-radius: 10px; }
+
+
 .example {
   background-color: #121621;
   top: 1.2em;

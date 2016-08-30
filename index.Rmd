@@ -35,6 +35,10 @@ knit        : slidify::knit2slides
 - Bilateral lymphadenopathy in pelvic region.
 - No hepatosplenomegaly.
 
+### Imaging
+- CT showed right pelvic mass encroaching on the bladder.
+- Pelvic ultrasound showed a right pelvic mass measuring 6.5cm encroaching on the uterus.
+
 ---
 
 ## CBC
@@ -84,14 +88,35 @@ Lymph node showing large cells with ample amount of cytoplasm and visible nucleo
 ---
 
 ## Differential Diagnosis
+> - Hodgkin disease
+> - B-cell lymphoma
+> - Diffuse large cell lymphoma
+> - Malignant histiocytosis
+> - Anaplastic Large-Cell Lymphoma (ALCL)
+> - Metastatic melanoma
+> - Viral infection
+
+
+[medscape](http://emedicine.medscape.com/article/208050-overview#a7)
 
 ---
 
 ## Additional Workup
 
+> - Excisional biopsy of lymphadenopathy
+> - Bone marrow biopsy
+> - Cytogenetics 
+> - Immunohistochemistry
+> - LDH
+> - beta2-microglobulin
+>  - LDH and beta2-microglobulin are prognostic indicators associated with tumor activity and size.
+
 ---
 
 ## Most Likely Diagnosis
+
+### Anaplastic Large-Cell Lymphoma (ALCL)
+
 
 ---
 
@@ -103,4 +128,6 @@ Lymph node showing large cells with ample amount of cytoplasm and visible nucleo
 
 --- 
 
-## Questions
+## References
+
+- *ASCP CaseSet Hematology & Coagulation*

@@ -184,3 +184,6 @@ Horseshoe cells are hallmark for ALCL
 - *Robbins and Cotran Pathologic Basis of Disease*
 - *Medscape*
 - http://www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/ImplantsandProsthetics/BreastImplants/ucm239995.htm
+
+<img class="float-left" src="assets/img/qr.png" style="width: 300px; height: auto;">
+

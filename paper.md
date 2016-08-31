@@ -37,4 +37,11 @@ ALCL is a  T-Cell neoplasm that is CD4+, CD8-, CD30+.
 It is associated with many infectious diseases including HSV, syphilis, leishmaniasis.
 There is a possible association between breast implants and ALCL.
 
+## References
+
+- *ASCP CaseSet Hematology & Coagulation*
+- *Robbins and Cotran Pathologic Basis of Disease*
+- [__Medscape
+  ALCL__](http://emedicine.medscape.com/article/208050-overview?pa=WyQ%2BHe4phLH%2B2rIjreFbnU5fcHent2yBEESelYJuU7M9uZ4VTfBcgCOB7JltxSvD43mU9jD%2B1DtnxY47OmyybA%3D%3D)
+- [__FDA ALCL__](http://www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/ImplantsandProsthetics/BreastImplants/ucm239995.htm)
 

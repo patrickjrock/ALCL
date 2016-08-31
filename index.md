@@ -104,8 +104,6 @@ Lymph node showing large cells with ample amount of cytoplasm and visible nucleo
 > - Metastatic melanoma
 > - Viral infection
 
-
-
 ---
 
 ## Additional Workup
@@ -147,7 +145,11 @@ Lymph node showing large cells with ample amount of cytoplasm and visible nucleo
 
 ## Salient Features
 > - T-Cell neoplasm
-  > - CD4+, CD8-, CD30+, 
+  - CD4+, CD8-, CD30+, 
+  - CD30+ is also associated with classical Hodgkin's lymphoma
+  - CD30 is the target of Brentuximab Vedotin
+> - Usually ALK+
+  - ALK- associated with poor prognosis
 > - Associated with HSV, syphilis, leishmaniasis, ...
 > - Possible association between breast implants and ALCL
 

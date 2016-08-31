@@ -185,5 +185,7 @@ Horseshoe cells are hallmark for ALCL
 - *Medscape*
 - http://www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/ImplantsandProsthetics/BreastImplants/ucm239995.htm
 
+Slides available at http://patrickjrock.com/ALCL/slides.pdf
+
 <img class="float-left" src="assets/img/qr.png" style="width: 300px; height: auto;">
 

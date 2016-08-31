@@ -1,7 +1,7 @@
 ---
 title       : Clinical Hematopathology 
 subtitle    : A Case Study
-author      : Patrick Rock  
+author      : Patrick Rock, Raafae Ismail  
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
@@ -58,6 +58,10 @@ github:
 | MCHC   | 32.8  |
 | PLT    | 255   |
 | RDW-CV | 15.8  |
+
+
+-WBC is high
+-HGB is low
 
 ---
 
@@ -120,7 +124,7 @@ Lymph node showing large cells with ample amount of cytoplasm and visible nucleo
 
 ### Anaplastic Large-Cell Lymphoma (ALCL)
 > - This rare neoplasm is suggested by large anaplastic cells with horseshoe or 
- embryoid nuclei in Figure 1. 
+ embryoid nuclei in Figure 2. 
 > - The diagnosis is confirmed by "the presence of rearangements
  in the ALK gene on chromosome 2p23" - Robbins
 > - ALK is not expressed in normal lymphocytes so its precense is a good indicator. 
@@ -159,7 +163,7 @@ Which of the following markers is suggestive of ALCL?
 5. FLT3
 
 ***.hint
-Why the long face?
+Nuclei are deformed
 
 ***.explanation
 Horseshoe cells are hallmark for ALCL
